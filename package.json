@@ -1,0 +1,18 @@
+{
+  "name": "jalalive-apk",
+  "version": "1.0.0",
+  "description": "JalaLive APK 2024 - A high-quality live sports streaming application for Android and Android TV.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/namapenggunaAnda/jalalive-apk.git"
+  },
+  "keywords": ["JalaLive APK", "sports streaming", "Android", "live sports", "2024"],
+  "author": "[Nama Anda]",
+  "license": "MIT",
+  "dependencies": {}
+}
